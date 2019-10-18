@@ -30,7 +30,7 @@ During the module, you studied what immutability is, what reducers, actions and 
 ### STEP 2 - Set up state in your component
 
 - Set up App
-- Please use more than 1 componentYou get to choose how you want to set up
+- Please use more than 1 component
 - Use the `reducer` hook to set up state in your component
 - Render your list of todos from your reducer in your app
 
