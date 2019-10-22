@@ -21,6 +21,7 @@ export default function Form(props) {
                 onChange={handleChange}
             />
             <button type="submit">Submit</button>
+            <button type="button" onClick={props.todoActions.clearCompleted} >Clear Completed</button>
         </form>
     );
 }
